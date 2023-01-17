@@ -1,0 +1,8 @@
+site_name: "ANIMALSAGAIN"
+site_description: "ANIMALSAGAIN"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
